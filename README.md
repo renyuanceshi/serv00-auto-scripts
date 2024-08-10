@@ -2,7 +2,7 @@
 
 ## 使用方法
 
-1. 在 GitHub 仓库中，进入右上角`Settings`
+1. 在 GitHub 仓库中，进入上(右角)`Settings`
 
 2. 在侧边栏找到`Secrets and variables`，点击展开选择`Actions`，点击`New repository secret`
     
